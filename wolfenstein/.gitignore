@@ -33,3 +33,8 @@
 
 # Visual Studio
 *.opendb
+*.idb
+*.pdb
+*.ilk
+*.log
+*.tlog
