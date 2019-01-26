@@ -1,6 +1,6 @@
 #pragma once
 #include <glm/glm.hpp>
-//GLAD needs to always be included prior glfw3.h to avoid GL error
+//GLAD needs to always be included prior glfw3.h
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
 #include "program.hpp"
